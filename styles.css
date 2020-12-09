@@ -1,0 +1,48 @@
+img {
+    width: 200px;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.info {
+    display:flex;
+    justify-content: space-around;
+    margin: 10px;
+
+}
+p{
+
+    text-align:left;
+    
+}
+.ques{
+width: 500px;
+    margin: 5px;
+}
+.pic1{
+height: 250px;
+}
+
+h1{
+text-align: center;
+}
+
+.pic{
+text-align: center;
+    margin: 10px;
+}
+h2{
+display: flex;
+    justify-content: center;
+    border: solid 4px;
+    padding:4px;
+}
+body{
+    background-color:orange;
+
+}
